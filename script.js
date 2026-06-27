@@ -32,17 +32,17 @@ const CONFIG = {
     {
       tag: "momen 01",
       image: "assets/foto1.jpg",
-      caption: "Foto pertama kalian — atau apa pun yang paling pas kamu mau tunjukin di sini.",
+      caption: "Malam takbiran pertama yang aku habiskan bersamamu, ke mana pun kamu ajak, aku selalu ingin ikut.",
     },
     {
       tag: "momen 02",
       image: "assets/foto2.jpg",
-      caption: "Ganti teks ini dengan cerita singkat di balik foto kedua.",
+      caption: "Momen lebaran yang spesial, bisa bertemu ibu dan adikmu, dan merasakan hangatnya keluargamu.",
     },
     {
       tag: "momen 03",
       image: "assets/foto3.jpg",
-      caption: "Satu lagi momen kecil yang menurutmu berarti.",
+      caption: "Menjelajahi Volka, duduk di kafe, dan menikmati waktu berdua. Ternyata, kebahagiaan memang sesederhana itu.",
     },
   ],
 
