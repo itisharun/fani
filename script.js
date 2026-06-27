@@ -10,7 +10,7 @@ const CONFIG = {
   recipientName: "Sayang",
 
   // Nama kamu (pengirim), muncul di tanda tangan surat.
-  senderName: "Aku",
+  senderName: "Harun",
 
   // Musik latar. Taruh file mp3 di assets/music.mp3 (nama file harus pas sama).
   // Kalau file belum ada / belum diupload, tombol musik tetap muncul tapi nggak ngapa-ngapain — aman, nggak error.
