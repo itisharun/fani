@@ -4,7 +4,7 @@
 
 const CONFIG = {
   // Kode kunci 4 digit untuk membuka kado. Ganti sesuka kamu.
-  lockCode: "0626",
+  lockCode: "1318",
 
   // Nama orang yang menerima kado ini.
   recipientName: "Sayang",
