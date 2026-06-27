@@ -31,17 +31,17 @@ const CONFIG = {
   moments: [
     {
       tag: "momen 01",
-      image: "",
+      image: "assets/foto1.jpg",
       caption: "Foto pertama kalian — atau apa pun yang paling pas kamu mau tunjukin di sini.",
     },
     {
       tag: "momen 02",
-      image: "",
+      image: "assets/foto2.jpg",
       caption: "Ganti teks ini dengan cerita singkat di balik foto kedua.",
     },
     {
       tag: "momen 03",
-      image: "",
+      image: "assets/foto3.jpg",
       caption: "Satu lagi momen kecil yang menurutmu berarti.",
     },
   ],
